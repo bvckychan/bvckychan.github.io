@@ -1,0 +1,74 @@
+.header{
+/*	background: #0c0c0c;*/
+	position: absolute;
+	width: 100%;
+	z-index: 100;
+}
+.logo img{
+	width: 50%
+}
+.nav ul{
+	list-style: none;
+}
+.nav li{
+	padding: 0 24px
+}
+.nav li a{
+	color: white;
+	text-decoration: none;
+}
+.nav li a:hover{
+	color:red;
+}
+.logo:hover{
+	width: 100%
+}
+.nav2 ul{
+	list-style: none;
+}
+.nav2 li{
+	padding: 0 24px
+}
+.nav2 li a{
+	color: black;
+	text-decoration: none;
+}
+.nav2 li a:hover{
+	color:red;
+}
+.banner{
+	height: 100vh;
+	overflow: hidden;
+}
+.absolute{
+	position: absolute;
+	z-index: -1000;
+}
+.poster1 img{
+	height: 1000px;
+	
+}
+
+
+h1{
+	padding: 100px 0px 20px 0px
+}
+
+.margin {
+	margin: 0px auto;
+}
+
+.about {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.about p{
+	text-align: justify;
+	
+}
+
+.footer {
+	padding: 100px 0px
+}
